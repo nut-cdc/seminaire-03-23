@@ -11305,7 +11305,7 @@ a.theme-link:hover {
 }
 
 .media-block {
-    background-image: url(/assets/images/design/flocon-blanc-rotate.png);
+    background-image: url("../images/design/flocon-blanc-rotate.png");
     background-repeat: no-repeat;
     background-size: 15%;
     background-color: #64A8A8;
@@ -11394,7 +11394,7 @@ a.theme-link:hover {
 
 
 .schedule-section {
-    background-image: url(/assets/images/design/flocon-vert.png);
+    background-image: url("../images/design/flocon-vert.png");
     background-repeat: no-repeat;
     background-size: 20%;
     background-position: bottom right;
@@ -11522,7 +11522,7 @@ a.team-building:hover {
     width: 80%;
     margin: 0 auto;
     box-shadow: 0 0.5rem 1rem rgba(0,0,0,0.15) !important;
-    background-image: url(/assets/images/design/montagne-vert-reverse.png);
+    background-image: url("../images/design/montagne-vert-reverse.png");
     background-repeat: no-repeat;
     background-size: 40%;
     /*background-position: top left;
